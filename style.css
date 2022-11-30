@@ -43,10 +43,58 @@ li a{
     font-weight: 600;
     line-height: normal;
     padding: 25px;
+  text-shadow: 1px 1px 0 #000,
+    -1px 1px 0 #000,
+    1px -1px 0 #000,
+    -1px -1px 0 #000,
+    0px 1px 0 #000,
+    0px -1px 0 #000,
+    -1px 0px 0 #000,
+    1px 0px 0 #000,
+    2px 2px 0 #000,
+    -2px 2px 0 #000,
+    2px -2px 0 #000,
+    -2px -2px 0 #000,
+    0px 2px 0 #000,
+    0px -2px 0 #000,
+    -2px 0px 0 #000,
+    2px 0px 0 #000,
+    1px 2px 0 #000,
+    -1px 2px 0 #000,
+    1px -2px 0 #000,
+    -1px -2px 0 #000,
+    2px 1px 0 #000,
+    -2px 1px 0 #000,
+    2px -1px 0 #000,
+    -2px -1px 0 #000;
 }
 /* STYLE TEXT */
 h1 {
   color: #c8a6ff;
+  text-shadow: 1px 1px 0 #000,
+    -1px 1px 0 #000,
+    1px -1px 0 #000,
+    -1px -1px 0 #000,
+    0px 1px 0 #000,
+    0px -1px 0 #000,
+    -1px 0px 0 #000,
+    1px 0px 0 #000,
+    2px 2px 0 #000,
+    -2px 2px 0 #000,
+    2px -2px 0 #000,
+    -2px -2px 0 #000,
+    0px 2px 0 #000,
+    0px -2px 0 #000,
+    -2px 0px 0 #000,
+    2px 0px 0 #000,
+    1px 2px 0 #000,
+    -1px 2px 0 #000,
+    1px -2px 0 #000,
+    -1px -2px 0 #000,
+    2px 1px 0 #000,
+    -2px 1px 0 #000,
+    2px -1px 0 #000,
+    -2px -1px 0 #000;
 }
 #hone {
   text-align:center;
@@ -226,4 +274,40 @@ text-align:center;
     -2px 1px 0 #000,
     2px -1px 0 #000,
     -2px -1px 0 #000;
+}
+#jamaicaone {
+  text-align:center;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size:15px;
+  color:black;
+  padding-left: 4em;
+  padding-right: 4em;
+  padding-bottom: 2em;
+}
+#jamaicatwo {
+  text-align:center;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size:15px;
+  color:black;
+  padding-left: 4em;
+  padding-right: 4em;
+  padding-bottom: 2em;
+}
+#whitestoneone {
+  text-align:center;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size:15px;
+  color:black;
+  padding-left: 4em;
+  padding-right: 4em;
+  padding-bottom: 2em;
+}
+#whitestonetwo {
+  text-align:center;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size:15px;
+  color:black;
+  padding-left: 4em;
+  padding-right: 4em;
+  padding-bottom: 2em;
 }
