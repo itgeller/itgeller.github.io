@@ -311,3 +311,21 @@ text-align:center;
   padding-right: 4em;
   padding-bottom: 2em;
 }
+#baysideone {
+  text-align:center;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size:15px;
+  color:black;
+  padding-left: 4em;
+  padding-right: 4em;
+  padding-bottom: 2em;
+}
+#baysidetwo {
+  text-align:center;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size:15px;
+  color:black;
+  padding-left: 4em;
+  padding-right: 4em;
+  padding-bottom: 2em;
+}
