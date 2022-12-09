@@ -329,3 +329,11 @@ text-align:center;
   padding-right: 4em;
   padding-bottom: 2em;
 }
+#Queens{
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  max-width:25%;
+  max-height:25%;
+  padding-top:1em;
+}
